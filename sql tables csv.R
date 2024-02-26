@@ -1,0 +1,6 @@
+"course_name","course_code","credits"
+"Statstics with R","20IT4301","3"
+"Java programming","20IT4302","3"
+"Advance data structures and algorithm","20IT4303","3"
+"Database managment system","20IT4304","2"
+"Ethical hacking","20IT4607","1"
